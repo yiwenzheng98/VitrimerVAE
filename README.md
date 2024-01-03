@@ -1,11 +1,12 @@
 # VitrimerVAE
-Inverse Design of Vitrimeric Polymers by Molecular Dynamics and Generative Modeling: https://arxiv.org/abs/2312.03690
+Inverse Design of Vitrimeric Polymers by Molecular Dynamics and Generative Modeling: https://arxiv.org/abs/2312.03690\
+Note: only a small fraction of the data is included for demonstration of the data format. Full data will be made openly available at the time of publication.
 
 ## ZINC
-Datasets derived from ZINC15 database: 322K carboxylic acids, 625K epoxides, 1M vitrimers. The data will be made openly available at the time of publication.
+Datasets derived from ZINC15 database: 322K carboxylic acids, 625K epoxides, 1M vitrimers.
 
 ## MD
-Density-temperature profiles and calculated *T*<sub>g</sub> of 8,424 vitrimers for data generation and discovered vitrimers by VAE and Bayesian optimization. The data will be made openly available at the time of publication.
+Density-temperature profiles and calculated *T*<sub>g</sub> of 8,424 vitrimers for data generation and discovered vitrimers by VAE and Bayesian optimization.
 
 ## Calibration
 The codes are tested in the following environment:
@@ -20,8 +21,6 @@ The codes are tested in the following environment:
 `python linear.py`\
 `python RBF.py`\
 `python Tanimoto.py`
-
-The vitrimer data will be made openly available at the time of publication.
 
 ## VAE
 The VAE codes are based on https://github.com/wengong-jin/hgraph2graph/
@@ -66,8 +65,6 @@ Run Bayesian optimization:\
 `python bo.py --savedir results --target 1`\
 Collect 200 vitrimers with *T*<sub>g</sub> closest to target:\
 `python bo_combine.py`
-
-The training and test data will be made openly available at the time of publication.
 
 ## BO
 This folder contains 10 proposed vitrimers with validated (by MD simulation and GP calibration) *T*<sub>g</sub> of three targets:
