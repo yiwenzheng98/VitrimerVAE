@@ -1,5 +1,5 @@
 # VitrimerVAE
-Inverse Design of Vitrimeric Polymers by Molecular Dynamics and Generative Modeling: https://arxiv.org/abs/2312.03690\
+Inverse Design of Vitrimeric Polymers by Molecular Dynamics and Generative Modeling: https://arxiv.org/abs/2312.03690  
 Note: only a small fraction of the data is included for demonstration of the data format. Full data will be made openly available at the time of publication.
 
 ## ZINC
