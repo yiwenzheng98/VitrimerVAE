@@ -1,0 +1,11 @@
+acid,epoxide,tg,pca1,pca2,SA_aci,SA_epo
+O=C(O)C(=O)Nc1ccc(C(=O)N2CCC(C(=O)O)(c3ccccc3)CC2)cc1,O=C(O)Nc1c(NC(=O)O)c(NC(=O)O)c(C(=O)Nc2ccc(C(=O)N(CC3CO3)CC3CO3)cc2)c(NC(=O)O)c1NC(=O)O,568.7695,-5.1258,-2.8161,2.1862,4.1020
+O=C(Nc1cc(C(=O)O)cc(C(=O)O)c1)C(=O)Nc1ccc2c(c1)CCCC2,O=C(Nc1ccccc1)C1=C(C(=O)Nc2ccccc2)C(=O)N(C(=O)c2cc(OCC3CO3)ccc2NC(=O)C2CO2)C(=O)C1=O,564.0605,-5.2946,-2.5083,2.1487,3.6803
+O=C(Nc1ccc(C(=O)O)cc1)C(=O)Nc1ccc(C(=O)O)c2c1C(=O)CCC2,O=C(Nc1c(NC(=O)c2ccccc2)c(C(=O)Nc2ccc(C(=O)N(CC3CO3)CC3CO3)cc2)c(C(=O)Nc2ccccc2)c(NC(=O)c2ccccc2)c1C(=O)Nc1ccccc1)c1ccccc1,545.3826,-5.3397,-2.3912,2.2986,3.9033
+O=C(O)CCn1c(=O)n(C(=O)c2cccc(C(=O)Nc3ccc(C(=O)O)cc3)c2)c(=O)n(-c2ccccc2)c1=O,O=C(Nc1ccc(C(=O)N(CC2CO2)CC2CO2)cc1)c1ccc(NC(=O)c2ccccc2)nc1,542.3495,-4.1262,-2.6944,2.4810,3.0264
+O=C(O)C(=O)Nc1cc(C(=O)Nc2ccc(C(=O)O)cc2)ccc1NC(=O)c1ccccc1,Nc1c(N)c(C(=O)Nc2ccc(C(=O)N(CC3CO3)CC3CO3)cc2)c(NC(=O)c2ccccc2)c(N)c1NC(=O)c1ccccc1,530.4249,-4.6193,-3.4425,1.9807,3.6691
+O=C(O)C(=O)Nc1ccc(C(=O)Nc2ccccc2C(=O)O)cc1,O=C(Nc1c(NC(=O)c2ccccc2)c(NC(=O)c2ccccc2)c(C(=O)Nc2ccc(C(=O)N(CC3CO3)CC3CO3)cc2)c(NC(=O)c2ccccc2)c1NC(=O)c1ccccc1)c1ccc(O)cc1,520.2212,-5.1860,-3.6824,1.7231,4.0099
+O=C(O)CC(=O)Nc1cc2c(=O)c(=O)c(=O)c(=O)c2c2c1C(=O)c1cc(NC(=O)c3ccc(C(=O)O)cc3)ccc1C2,O=C(Nc1ccc(C(=O)N(CC2CO2)CC2CO2)cc1)c1ccc(NC(=O)c2cccnc2)cc1,516.4933,-4.8200,-1.9808,2.9677,3.0004
+O=C(O)C(=O)Nc1cc2c(c3c(=O)c(=O)c(=O)c(=O)c13)CC(C(=O)O)c1ccccc1-2,O=C(Nc1ccc(C(=O)N(CC2CO2)CC2CO2)cc1)c1cnc(NC(=O)c2ccccc2)nc1,514.1539,-5.0001,-2.3041,3.3877,3.1246
+Cc1cc(NC(=O)C(=O)Nc2ccc(C(=O)O)cc2)ccc1C(=O)O,O=C(Nc1c(NC(=O)c2ccccc2)c(NC(=O)c2ccccc2)c(C(=O)Nc2ccc(C(=O)N(CC3CO3)CC3CO3)cc2)c(NC(=O)c2ccccc2)c1NC(=O)c1ccccc1)c1ccccc1,511.0891,-5.2945,-2.8146,1.8372,3.8748
+Nc1cc(C(=O)O)ccc1C(=O)Nc1ccc(-n2c(=O)c(=O)c(=O)c(=O)c2=O)c(-n2c(=O)c(=O)c(=O)c(=O)c2=O)c1C(=O)O,O=C(Nc1ccccc1C(=O)Nc1ccc(C(=O)N(CC2CO2)CC2CO2)cc1)c1cccnc1,508.5358,-4.8611,-2.5586,3.4378,3.0379
